@@ -10,7 +10,7 @@ vitualenv mayao
 # 3.chạy máy ảo
 source mayao/bin/activate
 # 4.Đến thư mục chứa file requirements.txt
-cd cd DEMO/blog_login_v01
+cd DEMO/blog_login_v01
 # 5.Cài đặt tất cả yêu cầu trong file requirements.txt vô máy ảo
 pip install -r requirements.txt
 # 6.Chạy lệnh để run project
