@@ -13,7 +13,7 @@ source mayao/bin/activate
 cd DEMO/blog_login_v01
 # 5.Cài đặt tất cả yêu cầu trong file requirements.txt vô máy ảo
 pip install -r requirements.txt
-# 6.Chạy lệnh để run project
+# 6.Chạy lệnh để run project(nhớ sửa database trong settings.py , chạy ./manage.py syncdb hoặc ./manage.py migrate để cập nhập lại database)
 ./manage.py runserver
 # hoặc
 python manage.py runserver
