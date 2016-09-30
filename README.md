@@ -1,7 +1,9 @@
 # Login_Logout_Logon_Openid
 # 1.Tạo thư mục chứa project
 mkdir project
+#
 cd project
+#
 mkdir DEMO
 # 2.Khởi tạo môi trường máy ảo
 vitualenv mayao
