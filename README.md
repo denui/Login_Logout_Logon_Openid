@@ -1,5 +1,5 @@
 # Login_Logout_Logon_Openid
-# 1.Tạo thư mục chạo thư mục chảoứa project
+# 1.Tạo thư mục chứa project
 mkdir project
 cd project
 mkdir DEMO
@@ -7,7 +7,7 @@ mkdir DEMO
 vitualenv mayao
 # 3.chạy máy ảo
 source mayao/bin/activate
-# 4.Đến thư mục chưa file requirements.txt
+# 4.Đến thư mục chứa file requirements.txt
 cd cd DEMO/blog_login_v01
 # 5.Cài đặt tất cả yêu cầu trong file requirements.txt vô máy ảo
 pip install -r requirements.txt
